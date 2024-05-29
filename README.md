@@ -1,6 +1,6 @@
-# CaseStudy_HS
+# UCI Air Quality dataset EDA and predictions using deep learning models.
 
-## This repository is made for the Healthscope Graduate Data Scientist Case Study.
+## This repository contains EDA and model fitting for the prediction of the air quality for the UCI air quality dataset.
 - **AirQualityUCI.csv** was the original dataset provided.
 - **Data Cleaning and EDA.ipynb** is the python notebook that contains the data cleaning process as well as the EDA of the dataset.
 - **Clean.csv** is the CSV file created after data cleaning and will be used for further analysis.
